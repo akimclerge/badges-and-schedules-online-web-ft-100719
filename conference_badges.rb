@@ -12,7 +12,6 @@ def batch_badge_creator(array)
   return nuarray
 end
 
-# batch_badge_creator(people)
 
 
 
